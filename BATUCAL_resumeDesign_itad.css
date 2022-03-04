@@ -1,0 +1,127 @@
+body{
+	background-color: #283747;
+	color: #D2D3D3;
+	font-family: Helvetica;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+}
+
+img{
+	height: 150px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100px;
+}
+
+h4{
+	text-align: right;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+
+	font-family: 'Quicksand', sans-serif;
+}
+
+address{
+	font-size: 0.9em;
+}
+
+em{
+	font-size: 12px;
+}
+
+mark{
+	color: white;
+	line-height: 30px;
+	font-size: 1	em;
+	border-radius: 5px;
+	box-shadow: 2px 5px 6px gray;
+}
+
+.workExperience{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.page{
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding-bottom: 0.75em;
+	width: 1000px;
+	box-shadow: 10px 15px 30px black;
+}
+
+.leftBanner{
+	background-color: #064975;
+	width: 290px;
+	float: left;
+	height: 1150px;
+}
+
+.rightBanner{
+	background-color: #F5F5F5;
+	width: auto;
+	color: #2D3032;
+	padding-left: 290px;
+	height: 1137px;
+}
+
+.schoolLevel{
+	float: left;
+}
+
+.school{
+	margin-left: 300px;
+}
+
+.profile{
+	padding-top: 1px;
+	margin-bottom: 43px;
+}
+
+.summary{
+	margin-top: 2.75em;
+	margin-bottom: 2.75em;
+}
+
+.itSkills{
+	display: inline;
+}
+
+.head1{
+	margin-bottom: 144px;
+}
+.head2{
+	margin-bottom: 198px;
+}
+.head4{
+	margin-bottom: 188px;
+}
+.head5{
+	margin-bottom: 132px;
+}
+
+.col2{
+	columns: 2;
+}
+.col3{
+	columns: 3;
+}
+
+.pSummary{
+	text-indent: 50px; 
+	text-align: justify;
+}
+.competent{
+	background-color:rgb(0, 204, 255); color: black;
+}
+
+.aBeginner{
+	background-color:rgb(200, 243, 7); color: black;
+}
